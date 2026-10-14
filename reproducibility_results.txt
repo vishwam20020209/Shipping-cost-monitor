@@ -1,5 +1,5 @@
 Reproducibility check
 Command: ./scripts/reproducibility.sh
-Result: PASS — three runs produced byte-identical CSV output.
-Evaluation: PASS — exact schema, 728 route-week rows, positive costs, and note-citation sanity checks.
-Run summary: 2,940 shipment records; 728 weekly route rows; 17 unexplained flags; 3 spikes justified by matching notes.
+Result: PASS  three runs produced byte identical CSV output.
+Evaluation: PASS exact schema, 728 route-week rows, positive costs, and note-citation sanity checks.
+Run summary: 2,940 shipment records: 728 weekly route rows : 17 unexplained flags: 3 spikes justified by matching notes.
