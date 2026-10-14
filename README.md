@@ -36,23 +36,6 @@ src/main.cpp                 C++17 implementation
  tests/evaluate.py           lightweight sanity and evaluation checks
 ```
 
-## Build and run
-
-Requires a C++17 compiler (g++/clang++).
-
-```bash
-g++ -std=c++17 -O2 -Wall -Wextra -pedantic src/main.cpp -o freighttiger
-./freighttiger data/shipment_records.csv data/context_notes.csv output.csv
-```
-
-Windows PowerShell with MinGW g++:
-
-```powershell
-g++ -std=c++17 -O2 -Wall -Wextra -pedantic src/main.cpp -o freighttiger.exe
-.\freighttiger.exe data\shipment_records.csv data\context_notes.csv output.csv
-```
-
-Optional arguments are shipment CSV path notes CSV path output CSV path.
 
 ## Validation performed
 
