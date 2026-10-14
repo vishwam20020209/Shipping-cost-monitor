@@ -26,14 +26,14 @@ A deterministic dependency free implementation of the AI Intern case study. It r
 ## Repository layout
 
 ```text
-src/main.cpp                 C++17 implementation
- data/shipment_records.csv   supplied shipment input
- data/context_notes.csv      supplied context notes
- data/sample_output_format_v2.csv  supplied output schema and example
- output.csv                  generated results
- run_log.txt                 run summary
- scripts/reproducibility.sh  three run byte for byte check
- tests/evaluate.py           lightweight sanity and evaluation checks
+C++  implementation
+Supplied Shipment input
+Supplied Context notes
+Supplied output schema and example
+Generated results
+Run summary
+Three run byte for byte check
+Lightweight sanity and evaluation checks
 ```
 
 
