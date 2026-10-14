@@ -1,0 +1,5 @@
+Processed shipments: 2940
+Weekly route rows: 728
+Flagged unexplained: 17
+Spikes justified by notes: 3
+Output: output.csv
