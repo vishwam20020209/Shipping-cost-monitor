@@ -1,11 +1,7 @@
-
-# Compiled executable files
 *.exe
 *.o
 
-# Editor settings
 .vscode/
 
-# Temporary files
 *.tmp
 *.log
